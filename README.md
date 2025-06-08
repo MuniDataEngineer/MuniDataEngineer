@@ -34,10 +34,22 @@ Multiple real-time projects involving:
 
 ---
 
+---
+
+## 📜 Certifications
+- **DP-203: Microsoft Azure Data Engineer Associate** – Microsoft  
+  _Issued: June 2024_ | [🔗 View Certificate](https://learn.microsoft.com/api/credentials/share/en-us/MMuniyarajCognizant-7365/D1ABD06A0D7C98BE?sharingId=53A3EC5AAB0B9E0F)
+- **DP-900: Microsoft Azure Data Fundamentals** – Microsoft  
+  _Issued: Feb 2023_ | [🔗 View Certificate](https://learn.microsoft.com/api/credentials/share/en-us/MMuniyarajCognizant-7365/594413885CA80B7E?sharingId=53A3EC5AAB0B9E0F)
+- **AZ-900: Microsoft Azure Fundamentals** – Microsoft  
+  _Issued: Oct 2022_ | [🔗 View Certificate](https://learn.microsoft.com/api/credentials/share/en-us/MMuniyarajCognizant-7365/560BF881B6A4EF82?sharingId=53A3EC5AAB0B9E0F)
+
+---
+
 ## 📫 Connect With Me
-- LinkedIn: https://www.linkedin.com/in/muniy-a-raj-m-24a720207
-- Email: muniyarajarun2001@gmail.com  
-- Mobile: +91 9042529734  
+- 💼LinkedIn:[🔗 View LinkedIn Profile](https://www.linkedin.com/in/muniy-a-raj-m-24a720207)
+- 📧Email: muniyarajarun2001@gmail.com  
+- 📞Mobile: +91 9042529734  
 
 ---
 
