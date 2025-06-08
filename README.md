@@ -47,7 +47,7 @@ Multiple real-time projects involving:
 ---
 
 ## 📫 Connect With Me
-- 💼LinkedIn:[🔗 View LinkedIn Profile](https://www.linkedin.com/in/muniy-a-raj-m-24a720207)
+- 💼LinkedIn:[🔗 View LinkedIn Profile](https://www.linkedin.com/in/muniyarajdataengineer)
 - 📧Email: muniyarajarun2001@gmail.com  
 - 📞Mobile: +91 9042529734  
 
