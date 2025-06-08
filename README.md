@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Muniyaraj M.
 
-###🧠 Data Enthusiast | 🔄 ETL Developer | ⚡ PySpark & GenAI Explorer
+### 🧠 Data Enthusiast | 🔄 ETL Developer | ⚡ PySpark & GenAI Explorer
 
 ---
 
