@@ -1,25 +1,25 @@
 # 👋 Hi, I'm Muniyaraj M.
 
-### 🧠 Data Enthusiast | 🔄 ETL Developer | ⚡ PySpark & GenAI Explorer
+### 🧠 Data Enthusiast | 🔄 Data Engineer | ⚡ PySpark & GenAI Explorer
 
 ---
 
 ## 👨‍💻 Professional Summary
-Data Engineer with nearly 3 years of experience in ETL processes, data modeling, and dashboard development. Skilled in building robust data pipelines and scalable solutions using SQL Server, Azure Databricks, and Power BI. Passionate about leveraging cloud-based technologies, integrating Generative AI (GenAI) solutions, and advancing expertise in modern data engineering and analytics.
+Data Engineer with 3 years of experience in building robust ETL pipelines, dimensional data models, and dashboards for enterprise-scale analytics. Skilled in tools such as SQL Server (SSIS, SSAS, SSMS), Azure Databricks, Azure Synapse Analytics, Azure Data Factory, PySpark, and Power BI. Proficient in cloud-native data solutions and passionate about applying Generative AI (GenAI) to create intelligent, future-ready systems. Capable of integrating advanced AI frameworks like LangChain and LangGraph to solve complex problems and drive innovation in modern data engineering. 
 
 ---
 
 ## 🛠️ Technical Skills
-- **Tools:** MS SQL Server, SSIS, SSAS, Azure Databricks, Power BI, Generative AI  
-- **Programming:** Python, PySpark, Java  
+- **Tools:** MS SQL Server, SSIS, SSAS, Azure Data Factory, Azure Synapse Analytics, Azure Databricks, Power BI, Generative AI , LangGraph, LangChain, Google Gemini
+- **Programming:** Python, PySpark, Java, DAX 
 - **DevOps & Version Control:** Git, GitLab, GitHub, Jenkins  
 
 ---
 
 ## 💼 Experience Highlights
-- Designed and developed ETL pipelines using SSIS for data integration and transformation.  
+- Designed and developed ETL pipelines using SSIS, Databricks, ADF for data integration and transformation.  
 - Built data models and tabular cubes in SSAS for efficient analytical processing.  
-- Automated incremental data loading and data extraction processes with stored procedures and SSIS expressions.  
+- Automated incremental data loading and data extraction processes with stored procedures and SSIS and ADF expressions.  
 - Created interactive dashboards and performed data validation using Power BI and DAX.  
 - Integrated version control and CI/CD workflows using GitLab and Jenkins to streamline deployment.  
 - Worked with cloud data platforms like Azure Databricks for big data processing and analytics.  
@@ -43,6 +43,8 @@ Multiple real-time projects involving:
   _Issued: Feb 2023_ | [🔗 View Certificate](https://learn.microsoft.com/api/credentials/share/en-us/MMuniyarajCognizant-7365/594413885CA80B7E?sharingId=53A3EC5AAB0B9E0F)
 - **AZ-900: Microsoft Azure Fundamentals** – Microsoft  
   _Issued: Oct 2022_ | [🔗 View Certificate](https://learn.microsoft.com/api/credentials/share/en-us/MMuniyarajCognizant-7365/560BF881B6A4EF82?sharingId=53A3EC5AAB0B9E0F)
+- **Databricks Certified Data Engineer Associate** – Databricks  
+  _Issued: Oct 2025_ | [🔗 View Certificate](https://credentials.databricks.com/e34eb7b2-6117-4534-95d4-e1e197ff403b#acc.0EOXaY9e)
 
 ---
 
