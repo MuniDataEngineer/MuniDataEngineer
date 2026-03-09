@@ -5,7 +5,7 @@
 ---
 
 ## 👨‍💻 Professional Summary
-Data Engineer with 3 years of experience in building robust ETL pipelines, dimensional data models, and dashboards for enterprise-scale analytics. Skilled in tools such as SQL Server (SSIS, SSAS, SSMS), Azure Databricks, Azure Synapse Analytics, Azure Data Factory, PySpark, and Power BI. Proficient in cloud-native data solutions and passionate about applying Generative AI (GenAI) to create intelligent, future-ready systems. Capable of integrating advanced AI frameworks like LangChain and LangGraph to solve complex problems and drive innovation in modern data engineering. 
+Data Engineer with 3.7 years of experience in building robust ETL pipelines, dimensional data models, and dashboards for enterprise-scale analytics. Skilled in tools such as SQL Server (SSIS, SSAS, SSMS), Azure Databricks, Azure Synapse Analytics, Azure Data Factory, PySpark, and Power BI. Proficient in cloud-native data solutions and passionate about applying Generative AI (GenAI) to create intelligent, future-ready systems. Capable of integrating advanced AI frameworks like LangChain and LangGraph to solve complex problems and drive innovation in modern data engineering. 
 
 ---
 
@@ -27,10 +27,7 @@ Data Engineer with 3 years of experience in building robust ETL pipelines, dimen
 ---
 
 ## 🚀 Featured Projects
-Multiple real-time projects involving:
-- Data ingestion from diverse sources  
-- ETL automation and data transformation  
-- Data modeling and dashboard creation  
+
 
 ---
 
