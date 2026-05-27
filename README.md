@@ -1,16 +1,16 @@
 # 👋 Hi, I'm Muniyaraj M.
 
-### 🧠 Data Enthusiast | 🔄 Data Engineer | ⚡ PySpark & GenAI Explorer
+### 🧠 Data Enthusiast | 🔄 Azure Data Engineer | ⚡ PySpark & GenAI Explorer
 
 ---
 
 ## 👨‍💻 Professional Summary
-Data Engineer with 3.7 years of experience in building robust ETL pipelines, dimensional data models, and dashboards for enterprise-scale analytics. Skilled in tools such as SQL Server (SSIS, SSAS, SSMS), Azure Databricks, Azure Synapse Analytics, Azure Data Factory, PySpark, and Power BI. Proficient in cloud-native data solutions and passionate about applying Generative AI (GenAI) to create intelligent, future-ready systems. Capable of integrating advanced AI frameworks like LangChain and LangGraph to solve complex problems and drive innovation in modern data engineering. 
+Data Engineer with 4 years of experience in building robust ETL pipelines, dimensional data models, and dashboards for enterprise-scale analytics. Skilled in tools such as SQL Server (SSIS, SSAS, SSMS), Azure Databricks, Azure Synapse Analytics, Azure Data Factory, PySpark, and Power BI. Proficient in cloud-native data solutions and passionate about applying Generative AI (GenAI) to create intelligent, future-ready systems. Capable of integrating advanced AI frameworks like LangChain and LangGraph to solve complex problems and drive innovation in modern data engineering. 
 
 ---
 
 ## 🛠️ Technical Skills
-- **Tools:** MS SQL Server, SSIS, SSAS, Azure Data Factory, Azure Synapse Analytics, Azure Databricks, Power BI, Generative AI , LangGraph, LangChain, Google Gemini
+- **Tools:** Azure Data Factory, Azure Synapse Analytics, Azure Databricks, Power BI, Generative AI , LangGraph, LangChain, Google Gemini, MS SQL Server, SSIS, SSAS
 - **Programming:** Python, PySpark, Java, DAX 
 - **DevOps & Version Control:** Git, GitLab, GitHub, Jenkins  
 
@@ -29,7 +29,7 @@ Data Engineer with 3.7 years of experience in building robust ETL pipelines, dim
 ## 🚀 Featured Projects
 
 
----
+---  End to end fabric data engineering project with GenAI enabled
 
 ---
 
