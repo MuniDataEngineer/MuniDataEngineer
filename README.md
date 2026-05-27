@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Muniyaraj M.
 
-### 🧠 Data Enthusiast | 🔄 Data Engineer | ⚡ PySpark & GenAI Explorer
+### 🧠 Data Enthusiast | 🔄 Azure Data Engineer | ⚡ PySpark & GenAI Explorer
 
 ---
 
